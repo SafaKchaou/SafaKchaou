@@ -2,8 +2,7 @@
 - 👀 I am interested in Cybersecurity, Legal Hacking and Software Development 
 - 🌱 I am currently studying Computer engineering 
 - 💞️ I am looking to collaborate on any oportunity which can enhance my knowledge about Cybersecurity and Software Development
-- 📫 How to reach me: "email": safakechaou@gmail.com
--                    
+- 📫 How to reach me: "email": safakechaou@gmail.com                    
 
 <!---
 SafaKchaou/SafaKchaou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
