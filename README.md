@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Safa
-- 👀 I’m interested in Cybersecurity and Astronomy, Briefly I enjoy every mysterious thing 
-- 🌱 I’m currently studying Computer engineering 
-- 💞️ I’m looking to collaborate on everything that can halp me to start learning about cybersecurity
-- 📫 How to reach me: "email": kchaousafa7@gmail.com
+- 👋 Hi, I am Safa Kechaou
+- 👀 I am interested in Cybersecurity, Legal Hacking and Software Development 
+- 🌱 I am currently studying Computer engineering 
+- 💞️ I am looking to collaborate on any oportunity which can enhance my knowledge about Cybersecurity and Software Development
+- 📫 How to reach me: "email": safakechaou@gmail.com
 -                    
 
 <!---
